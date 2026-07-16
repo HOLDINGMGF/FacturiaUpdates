@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.1-test",
-    "type":  "patch",
-    "sha256":  "9b5437606ea3247bef2508b9cfa58c7891d2d783dd6944d04430651aa17f3021",
+    "version":  "0.6.2-test",
     "minimumVersion":  "0.6.0",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.1-test.zip",
-    "notes":  "Test de mise à jour automatique via GitHub public : passage à BETA 0.6.1-test."
+    "type":  "patch",
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.2-test.zip",
+    "sha256":  "0fb7135e90d199b7635f9ceac3dbe9aeeff7720e76ffdbd86c073e10a9bd1ae8",
+    "notes":  "Correction navigation déconnexion/reconnexion, sélection société/exercice, changelog moderne, suppression bouton admin et restauration du bouton rafraîchir."
 }
