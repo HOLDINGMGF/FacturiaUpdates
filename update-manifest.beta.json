@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.14-test",
+    "version":  "0.6.15-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.14-test.zip",
-    "sha256":  "76f2865931b2d8f9226941a9d7177f5c49040616645fb84d3f176a8c59456ae2",
-    "notes":  "Correction de la synchronisation de la fin annuelle d\u0027exercice entre Gestion des sociétés et l\u0027onglet Exercice."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.15-test.zip",
+    "sha256":  "9a4aec9bd1cd58a79971b51b7ae2d62457a5be806bb2c5fd74ef7e091e9f4058",
+    "notes":  "Socle de facturation électronique : plateformes agréées configurables, émission structurée, journal des statuts et réception fournisseurs."
 }
