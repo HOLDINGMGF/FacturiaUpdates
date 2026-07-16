@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.6-test",
+    "version":  "0.6.7-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.6-test.zip",
-    "sha256":  "af52337cd11b7b0a47bb6a71dcf88279fbc073d7e0b187823c839415df81d060",
-    "notes":  "Statuts et émojis harmonisés, statut annulée verrouillé, numéro document sur deux lignes, titres facture/avoir liés et nouvel onglet Mails avec SMTP et modèles."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.7-test.zip",
+    "sha256":  "ed671d2f4ebab178dcae61ddfabcd02db3116852d2bd51fcb20913b4071d3fdb",
+    "notes":  "Transformation devis vers facture : devis source accepté automatiquement. Tableau de bord par défaut sur le mois courant avec filtres Jour, Mois, Exercice et Personnalisé borné à l\u0027exercice."
 }
