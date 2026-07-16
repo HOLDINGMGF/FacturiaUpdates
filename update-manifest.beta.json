@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.8-test",
+    "version":  "0.6.9-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.8-test.zip",
-    "sha256":  "0dcd0072f5aefd9de54bd888727f978ad9d48d86c0a44479a9c6cb2ad6c03182",
-    "notes":  "Updater au thème FACTURIA, maintenance avancée cachée avec droits illimités, correction création exercice libre et debug enrichi avec diagnostics/export logs."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.9-test.zip",
+    "sha256":  "7185cfbd427ecf28b2cdc6557564ec04effce6e6049a3d7ace0d0f081faa92c7",
+    "notes":  "Correction de la recherche de mise à jour : lecture sans cache du manifeste GitHub et cache-buster HTTP."
 }
