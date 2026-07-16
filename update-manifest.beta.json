@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.2-test",
+    "version":  "0.6.3-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.2-test.zip",
-    "sha256":  "0fb7135e90d199b7635f9ceac3dbe9aeeff7720e76ffdbd86c073e10a9bd1ae8",
-    "notes":  "Correction navigation déconnexion/reconnexion, sélection société/exercice, changelog moderne, suppression bouton admin et restauration du bouton rafraîchir."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.3-test.zip",
+    "sha256":  "65c481c51d3f478a7e600d9b2e9bf9cd4803e72df51e1f92a9df4627fba72b1f",
+    "notes":  "Updater graphique avec barre de progression, changement d\u0027exercice limité à la société active, bandeau exercice/société corrigé et symboles de statuts stabilisés."
 }
