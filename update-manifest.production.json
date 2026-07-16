@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.5-test",
+    "version":  "0.6.6-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.5-test.zip",
-    "sha256":  "b3c0484ca882ee78b758f55338fb85bbc5cae4c45b68a8b3291eda26922cdb3e",
-    "notes":  "Gestion des sociétés simplifiée avec actions après sélection, modification en fenêtre dédiée, gestion des droits par société et retour de la palette couleurs des documents."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.6-test.zip",
+    "sha256":  "af52337cd11b7b0a47bb6a71dcf88279fbc073d7e0b187823c839415df81d060",
+    "notes":  "Statuts et émojis harmonisés, statut annulée verrouillé, numéro document sur deux lignes, titres facture/avoir liés et nouvel onglet Mails avec SMTP et modèles."
 }
