@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.10-test",
+    "version":  "0.6.11-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.10-test.zip",
-    "sha256":  "c9f058939d71c903d78624ffd0a41c3d1ded9de2b5fea99a1d65a54e297c71cb",
-    "notes":  "Correction clôture/suppression exercice sans message confirmation annulée et création du prochain exercice limitée à l\u0027exercice officiellement autorisé par la date du jour."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.11-test.zip",
+    "sha256":  "06ba0e753d9069da668207dcacdb6c85a86d0dc82c509c4da27d424021e5825d",
+    "notes":  "Retour de l\u0027onglet Maintenance avancée avec outils complets : diagnostics, exports, réparations, dossiers, exercices et raccourcis de mise à jour."
 }
