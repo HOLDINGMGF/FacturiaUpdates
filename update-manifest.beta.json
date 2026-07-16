@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.11-test",
+    "version":  "0.6.12-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.11-test.zip",
-    "sha256":  "06ba0e753d9069da668207dcacdb6c85a86d0dc82c509c4da27d424021e5825d",
-    "notes":  "Retour de l\u0027onglet Maintenance avancée avec outils complets : diagnostics, exports, réparations, dossiers, exercices et raccourcis de mise à jour."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.12-test.zip",
+    "sha256":  "00753e3ee6b35196759c4b32a909065f5cbffdcb9a6c59319a5689a99008ba4b",
+    "notes":  "Correction des fenêtres qui pouvaient s\u0027ouvrir plusieurs fois après navigation et filtrage des totaux clients sur l\u0027exercice actif."
 }
