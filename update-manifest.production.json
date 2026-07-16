@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.7-test",
+    "version":  "0.6.8-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.7-test.zip",
-    "sha256":  "ed671d2f4ebab178dcae61ddfabcd02db3116852d2bd51fcb20913b4071d3fdb",
-    "notes":  "Transformation devis vers facture : devis source accepté automatiquement. Tableau de bord par défaut sur le mois courant avec filtres Jour, Mois, Exercice et Personnalisé borné à l\u0027exercice."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.8-test.zip",
+    "sha256":  "0dcd0072f5aefd9de54bd888727f978ad9d48d86c0a44479a9c6cb2ad6c03182",
+    "notes":  "Updater au thème FACTURIA, maintenance avancée cachée avec droits illimités, correction création exercice libre et debug enrichi avec diagnostics/export logs."
 }
