@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.3-test",
+    "version":  "0.6.4-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.3-test.zip",
-    "sha256":  "65c481c51d3f478a7e600d9b2e9bf9cd4803e72df51e1f92a9df4627fba72b1f",
-    "notes":  "Updater graphique avec barre de progression, changement d\u0027exercice limité à la société active, bandeau exercice/société corrigé et symboles de statuts stabilisés."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.4-test.zip",
+    "sha256":  "6d7da743aa1eacec83891b91dcad6c0b7242952e56db2e1cd80351f591439c88",
+    "notes":  "Avoir : facture d\u0027origine annulée automatiquement, retour des émojis, colonnes factures ajustées et correction du crash après déconnexion/reconnexion."
 }
