@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.12-test",
+    "version":  "0.6.13-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.12-test.zip",
-    "sha256":  "00753e3ee6b35196759c4b32a909065f5cbffdcb9a6c59319a5689a99008ba4b",
-    "notes":  "Correction des fenêtres qui pouvaient s\u0027ouvrir plusieurs fois après navigation et filtrage des totaux clients sur l\u0027exercice actif."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.13-test.zip",
+    "sha256":  "45f056170644a2235730402bf0380eaa24cd77adc7756cc7c56f350103d60fcd",
+    "notes":  "Séparation physique des nouveaux exercices par base, ouverture automatique de la base de l\u0027exercice choisi et encours client calculé tous exercices."
 }
