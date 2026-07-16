@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.13-test",
+    "version":  "0.6.14-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.13-test.zip",
-    "sha256":  "45f056170644a2235730402bf0380eaa24cd77adc7756cc7c56f350103d60fcd",
-    "notes":  "Séparation physique des nouveaux exercices par base, ouverture automatique de la base de l\u0027exercice choisi et encours client calculé tous exercices."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.14-test.zip",
+    "sha256":  "76f2865931b2d8f9226941a9d7177f5c49040616645fb84d3f176a8c59456ae2",
+    "notes":  "Correction de la synchronisation de la fin annuelle d\u0027exercice entre Gestion des sociétés et l\u0027onglet Exercice."
 }
