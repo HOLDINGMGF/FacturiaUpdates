@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.62-test",
+    "version":  "0.6.63-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.62-test.zip",
-    "sha256":  "e9bf0da06a57a42da1e8bf963ad7cee24a2bbe475f5fd3d2d7e8b5c7a84a3539",
-    "notes":  "Améliorations éditeur devis/factures : splash plus visible, lien fiche client, unités vides par défaut, totaux visibles et corrections de chevauchement."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.63-test.zip",
+    "sha256":  "93ecdcf0e27d07baa43b926989fcb20b4e8b7c6a293eab026dd3285defd50d26",
+    "notes":  "Correctifs éditeur/PDF : pays client, commentaire interne non imprimé, remise globale dynamique, champs agrandis et unité vide par défaut."
 }
