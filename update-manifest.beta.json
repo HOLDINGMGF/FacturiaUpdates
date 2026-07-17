@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.67-test",
+    "version":  "0.6.68-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.67-test.zip",
-    "sha256":  "bf55ede8cc036fef4ff0c9cf6765b35ff8993ef1891c6eaaf5dacf98869b75b7",
-    "notes":  "Nettoyage des brouillons mail de plus de 7 jours, ajustements éditeur devis et clarification du comptage des sociétés distinctes."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.68-test.zip",
+    "sha256":  "3bad0153a16377a4eccce4b1c40766834a202ed7612d93b5baffd45f9dd374ab",
+    "notes":  "Ergonomie des chemins de base et dossiers exports : boutons de sélection placés sous les champs lors de la première configuration, de l'ajout, de la connexion et de la modification d'une société."
 }
