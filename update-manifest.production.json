@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.69-test",
+    "version":  "0.6.70-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.69-test.zip",
-    "sha256":  "6928977d678cdf74b8fe0dc5956d81f01333673b5799416decc2a964c47c1bc7",
-    "notes":  "Ajout du mode multiposte assisté : export/import d'une configuration de poste, import dès la première ouverture et verrou de session pour empêcher un même login sur deux PC."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.70-test.zip",
+    "sha256":  "2150917a5d7cfb56baf154106e1b3d9efb385819081a87d22cd56cc815dbffe8",
+    "notes":  "Ajout des champs Email et Téléphone dans Paramètres > Société, avec sauvegarde directe depuis cet onglet."
 }

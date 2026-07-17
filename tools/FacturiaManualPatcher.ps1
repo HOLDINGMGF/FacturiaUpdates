@@ -3,8 +3,8 @@ Add-Type -AssemblyName System.Drawing
 
 $ErrorActionPreference = "Stop"
 
-$DefaultPatchUrl = "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.69-test.zip"
-$DefaultVersion = "0.6.69-test"
+$DefaultPatchUrl = "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.70-test.zip"
+$DefaultVersion = "0.6.70-test"
 
 function Test-IsAdministrator {
     $identity = [Security.Principal.WindowsIdentity]::GetCurrent()
