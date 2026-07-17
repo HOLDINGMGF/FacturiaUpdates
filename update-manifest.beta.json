@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.64-test",
+    "version":  "0.6.65-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.64-test.zip",
-    "sha256":  "69e3d74983236e113a6514857f77e3ba92039b7a91172b975c36b522095d19f4",
-    "notes":  "Ajout d’un interrupteur pour activer/désactiver le module de facturation électronique et masquer Achats reçus, Émettre e-facture et Historique e-facture."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.65-test.zip",
+    "sha256":  "3e04769ac19e6368e516cad77ab4848166a4f2a7e9dc544b3bc546667c10be79",
+    "notes":  "Ajout de la durée de validité des devis : valeur par défaut dans les paramètres, champ modifiable à la création et affichage sur devis/PDF."
 }
