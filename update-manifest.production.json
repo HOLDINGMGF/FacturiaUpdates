@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.68-test",
+    "version":  "0.6.69-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.68-test.zip",
-    "sha256":  "3bad0153a16377a4eccce4b1c40766834a202ed7612d93b5baffd45f9dd374ab",
-    "notes":  "Ergonomie des chemins de base et dossiers exports : boutons de sélection placés sous les champs lors de la première configuration, de l'ajout, de la connexion et de la modification d'une société."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.69-test.zip",
+    "sha256":  "6928977d678cdf74b8fe0dc5956d81f01333673b5799416decc2a964c47c1bc7",
+    "notes":  "Ajout du mode multiposte assisté : export/import d'une configuration de poste, import dès la première ouverture et verrou de session pour empêcher un même login sur deux PC."
 }
