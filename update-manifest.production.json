@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.74-test",
+    "version":  "0.6.75-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.74-test.zip",
-    "sha256":  "119fc82e8bd3c0d748554e7872dc24695cf1ef50175180f4a7a55012639ec97d",
-    "notes":  "Consolidation multiposte multi-base : droits utilisateurs centralisés, sociétés chargées depuis tous les profils, export complet avec workspace, users.sqlite et tous les profils nécessaires."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.75-test.zip",
+    "sha256":  "da95c3f7a2bea9e8abb9ab46ae0ac58c84a62368035696af351e50f8881e4590",
+    "notes":  "Correction suppression société : le message Confirmation annulée n'apparaît plus avant les confirmations de saisie."
 }
