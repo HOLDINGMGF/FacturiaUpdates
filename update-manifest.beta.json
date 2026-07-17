@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.73-test",
+    "version":  "0.6.74-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.73-test.zip",
-    "sha256":  "62b6ff445abc173bfb5ffcc4aae88d24add57ca9c16315cb05678351bc85e5f1",
-    "notes":  "Correction création société : chaque nouvelle société obtient son dossier, sa base exercice, sa base clients et company-settings, avec users.sqlite partagé à la racine."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.74-test.zip",
+    "sha256":  "119fc82e8bd3c0d748554e7872dc24695cf1ef50175180f4a7a55012639ec97d",
+    "notes":  "Consolidation multiposte multi-base : droits utilisateurs centralisés, sociétés chargées depuis tous les profils, export complet avec workspace, users.sqlite et tous les profils nécessaires."
 }
