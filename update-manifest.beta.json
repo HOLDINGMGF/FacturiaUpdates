@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.53-test",
+    "version":  "0.6.54-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.53-test.zip",
-    "sha256":  "dbc7c5eceb4fa1e3d1f3dec452cd68ffa2cf39d5a7af3e43bda562ebaff91f85",
-    "notes":  "Ajout du vrai champ unité, masquage TVA en non soumis, pied PDF nettoyé et amélioration visuelle de l'éditeur devis/factures."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.54-test.zip",
+    "sha256":  "c9aeb0548fde41b014814272cce30b9bbe0ea93e8cf9353d8679a1e103da9b12",
+    "notes":  "PDF unique pour les devis/factures : suppression de l'export HTML et impression directe depuis le PDF."
 }
