@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.55-test",
+    "version":  "0.6.56-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.55-test.zip",
-    "sha256":  "41ca15b0547432e1e071b79affee6e76891e44a6baa4876b2e749fdb1f0a3170",
-    "notes":  "Prévisualisation document au clic sur devis/facture et éditeur plus visuel proche WYSIWYG."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.56-test.zip",
+    "sha256":  "9825f3aec870bace0a781807b9451d40f150655c3aab649f02c2f994555f4572",
+    "notes":  "Gestion des lignes beaucoup plus WYSIWYG : table éditable dans la feuille, actions intégrées et ajout direct de lignes."
 }
