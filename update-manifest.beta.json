@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.65-test",
+    "version":  "0.6.66-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.65-test.zip",
-    "sha256":  "3e04769ac19e6368e516cad77ab4848166a4f2a7e9dc544b3bc546667c10be79",
-    "notes":  "Ajout de la durée de validité des devis : valeur par défaut dans les paramètres, champ modifiable à la création et affichage sur devis/PDF."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.66-test.zip",
+    "sha256":  "134aa9ec84de153317593de622f94aebffc4254750ade4a4e725b4c46b656d9d",
+    "notes":  "Ajout des champs Email et Téléphone dans Paramètres > Société et dans la gestion des sociétés."
 }
