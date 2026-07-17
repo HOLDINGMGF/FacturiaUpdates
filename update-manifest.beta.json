@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.72-test",
+    "version":  "0.6.73-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.72-test.zip",
-    "sha256":  "c7fc2a63c5dfb9fa7f7947eab580a428cb59276468af4d36dcddc54356647a5f",
-    "notes":  "Correction de l'onglet Multiposte : distinction entre profils de connexion configurés et sociétés réellement présentes dans la base active."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.73-test.zip",
+    "sha256":  "62b6ff445abc173bfb5ffcc4aae88d24add57ca9c16315cb05678351bc85e5f1",
+    "notes":  "Correction création société : chaque nouvelle société obtient son dossier, sa base exercice, sa base clients et company-settings, avec users.sqlite partagé à la racine."
 }
