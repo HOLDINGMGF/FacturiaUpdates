@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.63-test",
+    "version":  "0.6.64-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.63-test.zip",
-    "sha256":  "93ecdcf0e27d07baa43b926989fcb20b4e8b7c6a293eab026dd3285defd50d26",
-    "notes":  "Correctifs éditeur/PDF : pays client, commentaire interne non imprimé, remise globale dynamique, champs agrandis et unité vide par défaut."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.64-test.zip",
+    "sha256":  "69e3d74983236e113a6514857f77e3ba92039b7a91172b975c36b522095d19f4",
+    "notes":  "Ajout d’un interrupteur pour activer/désactiver le module de facturation électronique et masquer Achats reçus, Émettre e-facture et Historique e-facture."
 }
