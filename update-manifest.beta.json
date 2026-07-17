@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.75-test",
+    "version":  "0.9.1-beta",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.75-test.zip",
-    "sha256":  "da95c3f7a2bea9e8abb9ab46ae0ac58c84a62368035696af351e50f8881e4590",
-    "notes":  "Correction suppression société : le message Confirmation annulée n'apparaît plus avant les confirmations de saisie."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.9.1-beta.zip",
+    "sha256":  "741ba4dc1765ff59966606a8d5cf40042a439e4f856208496702ff4f86172e33",
+    "notes":  "BETA 0.9.1 : tampons visibles en prévisualisation, verrouillage des factures payées/annulées, correction confirmation SUPPRIMER, impression système et correction des logos PNG transparents sur PDF."
 }
