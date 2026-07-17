@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.59-test",
+    "version":  "0.6.60-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.59-test.zip",
-    "sha256":  "b74c9280f5681d1647457756fd7f7194fa66cfeeca1a22079f64b587df977681",
-    "notes":  "Améliorations devis/factures : brouillon mail prêt à envoyer, fiche client accessible, paiement par défaut client, aucun client pré-sélectionné, unités et types de lignes."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.60-test.zip",
+    "sha256":  "a966ec1fb2302df02bff93cc2605b29b0637263bcc2e861be0cf91c4736466a3",
+    "notes":  "Ajout d'une fenêtre de chargement au démarrage avec logo FACTURIA et barre de progression indéterminée."
 }
