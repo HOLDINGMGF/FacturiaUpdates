@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.66-test",
+    "version":  "0.6.67-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.66-test.zip",
-    "sha256":  "134aa9ec84de153317593de622f94aebffc4254750ade4a4e725b4c46b656d9d",
-    "notes":  "Ajout des champs Email et Téléphone dans Paramètres > Société et dans la gestion des sociétés."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.67-test.zip",
+    "sha256":  "bf55ede8cc036fef4ff0c9cf6765b35ff8993ef1891c6eaaf5dacf98869b75b7",
+    "notes":  "Nettoyage des brouillons mail de plus de 7 jours, ajustements éditeur devis et clarification du comptage des sociétés distinctes."
 }
