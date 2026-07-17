@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.50-test",
+    "version":  "0.6.51-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.50-test.zip",
-    "sha256":  "3df110017d111a93aaa0470cedb1e8719a29659a4a1b090039e6be11b62b71d5",
-    "notes":  "Correction de la recherche SIRET dans la création rapide client depuis devis/facture et dans la création de société."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.51-test.zip",
+    "sha256":  "ac9c7a892550c26b3b52a3497414947ae5c0b38777b3302012883e93207bd667",
+    "notes":  "Masquage du TOTAL TTC sur les documents sans TVA et masquage de la ligne Remise HT quand aucune remise globale n'est appliquée."
 }
