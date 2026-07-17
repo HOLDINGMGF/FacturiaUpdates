@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.16-test",
+    "version":  "0.6.49-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.16-test.zip",
-    "sha256":  "3fba876eefe0ccb348ff02f6231c7965375c9d93fbbf1554505add20271dbeb6",
-    "notes":  "Paramètres société centralisés dans company-settings.sqlite et assistant de migration vers lecteur réseau ou autre emplacement."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.49-test.zip",
+    "sha256":  "a01c6172f09157d95a1aefef76166860785046c35a36fff78cb07cbd68fac0e6",
+    "notes":  "Mails HTML FACTURIA avec PDF joint, brouillon .eml pour logiciel de messagerie et archivage client avec filtre actifs/archivés."
 }
