@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.58-test",
+    "version":  "0.6.59-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.58-test.zip",
-    "sha256":  "ebfd76e491fc6cbadc32e950fdd0f97f411bd2639ce7ac7c481df02911eda73f",
-    "notes":  "Correctif urgent performance : le rafraîchissement multiposte ne se déclenche plus sur les sélections internes et ne recharge que l'onglet affiché."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.59-test.zip",
+    "sha256":  "b74c9280f5681d1647457756fd7f7194fa66cfeeca1a22079f64b587df977681",
+    "notes":  "Améliorations devis/factures : brouillon mail prêt à envoyer, fiche client accessible, paiement par défaut client, aucun client pré-sélectionné, unités et types de lignes."
 }
