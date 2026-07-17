@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.71-test",
+    "version":  "0.6.72-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.71-test.zip",
-    "sha256":  "6c899d2714a9fc7669a51f02c6a7eefcf881167db5f2b0987c962d5572d7c625",
-    "notes":  "Diagnostic multiposte amélioré : indique si la base active est locale ou partagée, avertit avant export local et ajoute un bouton pour déplacer la société vers un dossier réseau."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.72-test.zip",
+    "sha256":  "c7fc2a63c5dfb9fa7f7947eab580a428cb59276468af4d36dcddc54356647a5f",
+    "notes":  "Correction de l'onglet Multiposte : distinction entre profils de connexion configurés et sociétés réellement présentes dans la base active."
 }
