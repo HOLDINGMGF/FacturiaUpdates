@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.57-test",
+    "version":  "0.6.58-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.57-test.zip",
-    "sha256":  "d67f240cd4184a58edabfdb886178675d03b4ad2120a4159cf8f875ec9bedf23",
-    "notes":  "Rafraîchissement automatique au changement d'onglet et protection multiposte contre l'écrasement des nouvelles factures/clients créés ailleurs."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.58-test.zip",
+    "sha256":  "ebfd76e491fc6cbadc32e950fdd0f97f411bd2639ce7ac7c481df02911eda73f",
+    "notes":  "Correctif urgent performance : le rafraîchissement multiposte ne se déclenche plus sur les sélections internes et ne recharge que l'onglet affiché."
 }
