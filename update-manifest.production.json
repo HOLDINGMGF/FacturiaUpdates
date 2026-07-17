@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.60-test",
+    "version":  "0.6.61-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.60-test.zip",
-    "sha256":  "a966ec1fb2302df02bff93cc2605b29b0637263bcc2e861be0cf91c4736466a3",
-    "notes":  "Ajout d'une fenêtre de chargement au démarrage avec logo FACTURIA et barre de progression indéterminée."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.61-test.zip",
+    "sha256":  "f5fb68484ee235c301a3f24c8a06ac4825bf19ea0cad99bbf682e678d574ecaa",
+    "notes":  "Correctif critique : résout le blocage d'ouverture après la mise à jour 0.6.59/0.6.60 lié aux champs paiement client."
 }
