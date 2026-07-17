@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.54-test",
+    "version":  "0.6.55-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.54-test.zip",
-    "sha256":  "c9aeb0548fde41b014814272cce30b9bbe0ea93e8cf9353d8679a1e103da9b12",
-    "notes":  "PDF unique pour les devis/factures : suppression de l'export HTML et impression directe depuis le PDF."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.55-test.zip",
+    "sha256":  "41ca15b0547432e1e071b79affee6e76891e44a6baa4876b2e749fdb1f0a3170",
+    "notes":  "Prévisualisation document au clic sur devis/facture et éditeur plus visuel proche WYSIWYG."
 }
