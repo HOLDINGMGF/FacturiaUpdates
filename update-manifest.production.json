@@ -1,8 +1,8 @@
 ﻿{
-    "version":  "0.6.51-test",
+    "version":  "0.6.52-test",
     "minimumVersion":  "0.6.0",
     "type":  "patch",
-    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.51-test.zip",
-    "sha256":  "ac9c7a892550c26b3b52a3497414947ae5c0b38777b3302012883e93207bd667",
-    "notes":  "Masquage du TOTAL TTC sur les documents sans TVA et masquage de la ligne Remise HT quand aucune remise globale n'est appliquée."
+    "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-0.6.52-test.zip",
+    "sha256":  "bf233a765f40b50e31293b339b13808e76d355318acd18977380cc92867effdb",
+    "notes":  "Refonte complète de l'export PDF devis/factures avec une mise en page plus moderne proche du modèle fourni."
 }
