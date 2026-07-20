@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.10-beta",
+    "version":  "0.9.11-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.10 : correction de la gestion utilisateurs avec ascenseur et navigation beaucoup plus rapide entre les onglets sans relecture réseau automatique.",
+    "notes":  "BETA 0.9.11 : correction multiposte critique, le changement de statut recharge la base puis modifie uniquement le document concerné sans écraser les statuts modifiés par les autres postes.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.10-beta.zip",
-                                         "sha256":  "cd429e3289694ffb8109768a0a30b491b8e78476b9b683a7aa0a7e20a5212150"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.11-beta.zip",
+                                         "sha256":  "d7f63ed7244fb1be698b154d4dc13be3dee4f9aef91669e725c39c45cab33128"
                                      }
                  }
 }
