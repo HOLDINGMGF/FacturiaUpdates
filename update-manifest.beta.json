@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.3-beta",
+    "version":  "0.9.4-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.3 : ajout d'une roue de chargement lors de la création/modification de société et ajout automatique du symbole € sur le capital.",
+    "notes":  "BETA 0.9.4 : indicateur global de chargement, affichage numéro devis/facture corrigé, assistant demi-SaaS ciblé, espaces PDF corrigés et validité devis basée sur la date d'émission.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.3-beta.zip",
-                                         "sha256":  "c615e36ccf237fa342a3bbab28ec51f9b5edcff16173ea58aa547ab694a6813c"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.4-beta.zip",
+                                         "sha256":  "83b3911f2fb4b579ab2535363aeafa21ec42da7a073f881bdb718d8a39a82ba9"
                                      }
                  }
 }
