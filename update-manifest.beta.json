@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.8-beta",
+    "version":  "0.9.9-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.8 : les comptes Admin/Super Admin ne sont plus limités par les verrous de session et les faux verrous du même poste sont nettoyés.",
+    "notes":  "BETA 0.9.9 : optimisation multiposte, cache temporaire des documents/totaux, moins de rafraîchissements réseau et réglages SQLite plus rapides.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.8-beta.zip",
-                                         "sha256":  "41d017b5324e4094939efc1c761f6ff59d96bdd61bbd7b9a24e8062536de4a53"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.9-beta.zip",
+                                         "sha256":  "f732584309a4482a8949a3120853e27ae0d2983923e4d87ade32a7f7c0638e64"
                                      }
                  }
 }
