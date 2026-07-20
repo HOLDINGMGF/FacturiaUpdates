@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.4-beta",
+    "version":  "0.9.5-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.4 : indicateur global de chargement, affichage numéro devis/facture corrigé, assistant demi-SaaS ciblé, espaces PDF corrigés et validité devis basée sur la date d'émission.",
+    "notes":  "BETA 0.9.5 : déplacement du tampon PAYÉ en bas à gauche du montant final dans les PDF pour éviter le chevauchement de l'adresse client.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.4-beta.zip",
-                                         "sha256":  "83b3911f2fb4b579ab2535363aeafa21ec42da7a073f881bdb718d8a39a82ba9"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.5-beta.zip",
+                                         "sha256":  "5cfccb3b84ee2e5fbbf4d78144c94fb19bd7cae1da6f7e88718c3050d23d9df2"
                                      }
                  }
 }
