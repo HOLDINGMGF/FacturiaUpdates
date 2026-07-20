@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.6-beta",
+    "version":  "0.9.7-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.6 : l'Ultra Admin peut modifier et supprimer les factures/avoirs payés ou annulés sans blocage métier.",
+    "notes":  "BETA 0.9.7 : correction de l'import multiposte, le mot de passe SQLCipher est demandé avant d'afficher une erreur de saisie obligatoire.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.6-beta.zip",
-                                         "sha256":  "8d2d0f2d3014fabd9d1af10ec3c878550b8f0ffb99cd127be5c619748fadae87"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.7-beta.zip",
+                                         "sha256":  "a9f00d4d0cb35205066656b42f99a4c2721dbf5c23b6d04e6bf2ec380ecae04b"
                                      }
                  }
 }
