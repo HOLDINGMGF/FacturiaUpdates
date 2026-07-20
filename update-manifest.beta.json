@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.11-beta",
+    "version":  "0.9.12-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.11 : correction multiposte critique, le changement de statut recharge la base puis modifie uniquement le document concerné sans écraser les statuts modifiés par les autres postes.",
+    "notes":  "BETA 0.9.12 : sécurisation multiposte globale des devis/factures/avoirs avec verrous d'édition par utilisateur et sauvegardes ciblées sur base fraîche.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.11-beta.zip",
-                                         "sha256":  "d7f63ed7244fb1be698b154d4dc13be3dee4f9aef91669e725c39c45cab33128"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.12-beta.zip",
+                                         "sha256":  "6e3aaca3cdf1fc224a3340880acf80e454751524b63242fd5d2550c4443b01e4"
                                      }
                  }
 }
