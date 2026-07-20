@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.7-beta",
+    "version":  "0.9.8-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.7 : correction de l'import multiposte, le mot de passe SQLCipher est demandé avant d'afficher une erreur de saisie obligatoire.",
+    "notes":  "BETA 0.9.8 : les comptes Admin/Super Admin ne sont plus limités par les verrous de session et les faux verrous du même poste sont nettoyés.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.7-beta.zip",
-                                         "sha256":  "a9f00d4d0cb35205066656b42f99a4c2721dbf5c23b6d04e6bf2ec380ecae04b"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.8-beta.zip",
+                                         "sha256":  "41d017b5324e4094939efc1c761f6ff59d96bdd61bbd7b9a24e8062536de4a53"
                                      }
                  }
 }
