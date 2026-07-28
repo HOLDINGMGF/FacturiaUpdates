@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.16-beta",
+    "version":  "0.9.17-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.16 : conditions de paiement réorganisables/modifiables, ajout paiement à échoir/échue/début de mois, libellés d'exercice clarifiés et factures datables dans le futur sans antidatage.",
+    "notes":  "BETA 0.9.17 : suppression du choix échue/à échoir dans les conditions de paiement, seules les cases début de mois et fin de mois restent disponibles et sont exclusives.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.16-beta.zip",
-                                         "sha256":  "eb4b4ba3ac2f2047226a15c9d3d094473a32a8f047e928a958779eb8eadb3267"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.17-beta.zip",
+                                         "sha256":  "19bcc910dd46e535114d8348d8402dc19efe0c70147bf52e6404c831665f833e"
                                      }
                  }
 }
