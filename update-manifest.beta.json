@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.20-beta",
+    "version":  "0.9.21-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.20 : correctif démarrage Windows, la synchro launcher/registre multiposte ne bloque plus l'ouverture et l'écran intermédiaire société seule après login est supprimé.",
+    "notes":  "BETA 0.9.21 : correction de la suppression société qui pouvait être réinjectée par la fusion multiposte avant sauvegarde et rester visible dans Gestion des sociétés.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.20-beta.zip",
-                                         "sha256":  "ec80f3974935f00ba6b1207a5f7fe6674087c468d4486763075535073f793ed2"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.21-beta.zip",
+                                         "sha256":  "982aff55296d00de684acb615f72b8465a92c5b548fb13b1c266b7f719f483dd"
                                      }
                  }
 }
