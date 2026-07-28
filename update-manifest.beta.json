@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.14-beta",
+    "version":  "0.9.15-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.14 : correction du stockage des exercices dans company-settings.sqlite, avec migration/fusion depuis les anciennes bases d'exercice.",
+    "notes":  "BETA 0.9.15 : ajout d'un numéro client persistant visible dans les fiches clients, avec migration automatique des anciens clients.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.14-beta.zip",
-                                         "sha256":  "e4b7ff4301580d3548a512eb02582036e2f5ad0ced1f260dec877a5fd786013f"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.15-beta.zip",
+                                         "sha256":  "8f343942c942f8148e06cad19a25645b2a98b116fc4dea45222c72419a8573e6"
                                      }
                  }
 }
