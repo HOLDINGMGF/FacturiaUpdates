@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.22-beta",
+    "version":  "0.9.23-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.22 : correction de la suppression société silencieuse, confirmation unique dédiée, message explicite si la saisie est incorrecte ou si la société reste injectée.",
+    "notes":  "BETA 0.9.23 : correction sélection société multiposte, suppression des anciennes sociétés fantômes issues des bases miroir et disparition de la deuxième fenêtre de sélection après login.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.22-beta.zip",
-                                         "sha256":  "f95be0127709d842e548596daa43cbf873e0987e214fb3397487207e16345b5d"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.23-beta.zip",
+                                         "sha256":  "3fa8a525f58a4991f7a32c3259d19484ed5be69f568ec6b4a01f6fc001faf681"
                                      }
                  }
 }
