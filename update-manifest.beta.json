@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.12-beta",
+    "version":  "0.9.13-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.12 : sécurisation multiposte globale des devis/factures/avoirs avec verrous d'édition par utilisateur et sauvegardes ciblées sur base fraîche.",
+    "notes":  "BETA 0.9.13 : bouton Changer de Société, rôles Admin/Super Admin exclusifs, droits métier possibles pour Admin et boutons tout cocher/décocher par société.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.12-beta.zip",
-                                         "sha256":  "6e3aaca3cdf1fc224a3340880acf80e454751524b63242fd5d2550c4443b01e4"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.13-beta.zip",
+                                         "sha256":  "03d6945de38d3548c7c032beebf76bd7a4e68f402f24695d9591b27b73119f5f"
                                      }
                  }
 }
