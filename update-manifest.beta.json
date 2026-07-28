@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.17-beta",
+    "version":  "0.9.18-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.17 : suppression du choix échue/à échoir dans les conditions de paiement, seules les cases début de mois et fin de mois restent disponibles et sont exclusives.",
+    "notes":  "BETA 0.9.18 : correction de la suppression société, retrait du launcher local et du registre multiposte partagé pour éviter qu'une société supprimée réapparaisse.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.17-beta.zip",
-                                         "sha256":  "19bcc910dd46e535114d8348d8402dc19efe0c70147bf52e6404c831665f833e"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.18-beta.zip",
+                                         "sha256":  "4198c98c443b68ea72a531e6334ec454880c21de02b614b414339a78379bc353"
                                      }
                  }
 }
