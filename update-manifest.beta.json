@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.15-beta",
+    "version":  "0.9.16-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.15 : ajout d'un numéro client persistant visible dans les fiches clients, avec migration automatique des anciens clients.",
+    "notes":  "BETA 0.9.16 : conditions de paiement réorganisables/modifiables, ajout paiement à échoir/échue/début de mois, libellés d'exercice clarifiés et factures datables dans le futur sans antidatage.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.15-beta.zip",
-                                         "sha256":  "8f343942c942f8148e06cad19a25645b2a98b116fc4dea45222c72419a8573e6"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.16-beta.zip",
+                                         "sha256":  "eb4b4ba3ac2f2047226a15c9d3d094473a32a8f047e928a958779eb8eadb3267"
                                      }
                  }
 }
