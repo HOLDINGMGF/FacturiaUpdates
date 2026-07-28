@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.21-beta",
+    "version":  "0.9.22-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.21 : correction de la suppression société qui pouvait être réinjectée par la fusion multiposte avant sauvegarde et rester visible dans Gestion des sociétés.",
+    "notes":  "BETA 0.9.22 : correction de la suppression société silencieuse, confirmation unique dédiée, message explicite si la saisie est incorrecte ou si la société reste injectée.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.21-beta.zip",
-                                         "sha256":  "982aff55296d00de684acb615f72b8465a92c5b548fb13b1c266b7f719f483dd"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.22-beta.zip",
+                                         "sha256":  "f95be0127709d842e548596daa43cbf873e0987e214fb3397487207e16345b5d"
                                      }
                  }
 }
