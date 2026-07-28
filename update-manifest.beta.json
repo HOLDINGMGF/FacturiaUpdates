@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.18-beta",
+    "version":  "0.9.19-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.18 : correction de la suppression société, retrait du launcher local et du registre multiposte partagé pour éviter qu'une société supprimée réapparaisse.",
+    "notes":  "BETA 0.9.19 : en multiposte, le registre partagé facturia-workspace.json devient prioritaire et nettoie automatiquement les launcher.json locaux des autres postes.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.18-beta.zip",
-                                         "sha256":  "4198c98c443b68ea72a531e6334ec454880c21de02b614b414339a78379bc353"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.19-beta.zip",
+                                         "sha256":  "b05b8f57f82b81efe53681eec800bf0cd17b40a74dd94e02a53e2773cd7a66bf"
                                      }
                  }
 }
