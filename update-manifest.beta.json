@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.23-beta",
+    "version":  "0.9.24-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.23 : correction sélection société multiposte, suppression des anciennes sociétés fantômes issues des bases miroir et disparition de la deuxième fenêtre de sélection après login.",
+    "notes":  "BETA 0.9.24 : ajout du journal d'audit 30 jours en monoposte/multiposte, traçage des connexions Admin/Super Admin et des actions sensibles utilisateurs, sociétés et documents.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.23-beta.zip",
-                                         "sha256":  "3fa8a525f58a4991f7a32c3259d19484ed5be69f568ec6b4a01f6fc001faf681"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.24-beta.zip",
+                                         "sha256":  "0d264c013f46d5f50f95a300293991b6fbd2855b180664447947bc25120ebdae"
                                      }
                  }
 }
