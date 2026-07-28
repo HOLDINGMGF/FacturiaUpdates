@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.13-beta",
+    "version":  "0.9.14-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.13 : bouton Changer de Société, rôles Admin/Super Admin exclusifs, droits métier possibles pour Admin et boutons tout cocher/décocher par société.",
+    "notes":  "BETA 0.9.14 : correction du stockage des exercices dans company-settings.sqlite, avec migration/fusion depuis les anciennes bases d'exercice.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.13-beta.zip",
-                                         "sha256":  "03d6945de38d3548c7c032beebf76bd7a4e68f402f24695d9591b27b73119f5f"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.14-beta.zip",
+                                         "sha256":  "e4b7ff4301580d3548a512eb02582036e2f5ad0ced1f260dec877a5fd786013f"
                                      }
                  }
 }
