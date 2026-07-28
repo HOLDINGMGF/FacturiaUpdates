@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.19-beta",
+    "version":  "0.9.20-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.19 : en multiposte, le registre partagé facturia-workspace.json devient prioritaire et nettoie automatiquement les launcher.json locaux des autres postes.",
+    "notes":  "BETA 0.9.20 : correctif démarrage Windows, la synchro launcher/registre multiposte ne bloque plus l'ouverture et l'écran intermédiaire société seule après login est supprimé.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.19-beta.zip",
-                                         "sha256":  "b05b8f57f82b81efe53681eec800bf0cd17b40a74dd94e02a53e2773cd7a66bf"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.20-beta.zip",
+                                         "sha256":  "ec80f3974935f00ba6b1207a5f7fe6674087c468d4486763075535073f793ed2"
                                      }
                  }
 }
