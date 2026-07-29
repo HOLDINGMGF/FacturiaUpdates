@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.37-beta",
+    "version":  "0.9.38-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.37 : nettoyage brutal des bases. Les bases exercice ne gardent plus que les données métier de l'exercice, company-settings.sqlite ne garde que sa propre société, ses paramètres, exercices et plateformes, et les anciennes tables parasites sont supprimées automatiquement.",
+    "notes":  "BETA 0.9.38 : nettoyage optimisé des bases. Le nettoyage brutal est maintenant versionné par base via schema_metadata et ne se relance plus à chaque ouverture si la base est déjà propre, ce qui accélère le multiposte sur lecteur réseau.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.37-beta.zip",
-                                         "sha256":  "9c69d6f6ac229ea80e0bfde437a0cc6dfb76f27363ea806fad51cfff9f4f1f48"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.38-beta.zip",
+                                         "sha256":  "b782c890a0a3fe9e28b8e80ec64e38913afab81ec5981a5da1b710aceb96a1aa"
                                      }
                  }
 }
