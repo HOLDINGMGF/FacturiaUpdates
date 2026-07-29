@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.33-beta",
+    "version":  "0.9.34-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.33 : assistant IA en vrai panneau chat intégré en bas à droite, sans fenêtre séparée, avec bouton micro et erreurs OpenAI traduites clairement en français.",
+    "notes":  "BETA 0.9.34 : ajout de la forme juridique client, sécurisation de la base clients dédiée, maintenance avancée de pointage des bases et contrôle mémoire/base clients avec rafraîchissement depuis la base.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.33-beta.zip",
-                                         "sha256":  "3b5880814a0f7bc6f2a716e382bf634869b4fe58dccc92a90d91456652077467"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.34-beta.zip",
+                                         "sha256":  "f720b30984a768977737cd666b56a0299757918dd1f354937a77edbbd7073daf"
                                      }
                  }
 }
