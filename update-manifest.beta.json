@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.38-beta",
+    "version":  "0.9.39-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.38 : nettoyage optimisé des bases. Le nettoyage brutal est maintenant versionné par base via schema_metadata et ne se relance plus à chaque ouverture si la base est déjà propre, ce qui accélère le multiposte sur lecteur réseau.",
+    "notes":  "BETA 0.9.39 : correction critique d'isolation société/client. Le changement de société ouvre physiquement la bonne base, les sauvegardes client sont bloquées si le store actif ne correspond pas, et les bases clients purgent les lignes appartenant à une autre société.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.38-beta.zip",
-                                         "sha256":  "b782c890a0a3fe9e28b8e80ec64e38913afab81ec5981a5da1b710aceb96a1aa"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.39-beta.zip",
+                                         "sha256":  "5f0472543a571641d88eaf5625196fe49ae7229a698d3c5ddf4f0ea082afb583"
                                      }
                  }
 }
