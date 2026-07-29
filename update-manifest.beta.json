@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.29-beta",
+    "version":  "0.9.30-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.29 : correction du logo Factur.ia by MGF en haute résolution avec coins transparents propres, icône Windows multi-tailles et ajout de la forme juridique SC.",
+    "notes":  "BETA 0.9.30 : ajout d'un assistant IA de test pour préparer des brouillons de devis/factures par texte ou dictée vocale Windows, avec validation obligatoire dans l'éditeur Factur.ia.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.29-beta.zip",
-                                         "sha256":  "4cf0a57c10939b8a9807742663fd063ea9c38ea73b353fac554bc7e582bbaf05"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.30-beta.zip",
+                                         "sha256":  "f9de99b947dc37b5559d0f5244c4a69585baf4f34f2814b39ffa7063c312426a"
                                      }
                  }
 }
