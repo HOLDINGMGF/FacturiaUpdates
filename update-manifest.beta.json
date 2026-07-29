@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.27-beta",
+    "version":  "0.9.28-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.27 : rôles utilisateur/admin/superadmin exclusifs ; Admin et Super Admin n'ont plus aucun droit métier ni droit société modifiable.",
+    "notes":  "BETA 0.9.28 : optimisations d'ouverture et de sélection société, réduction des lectures réseau, sauvegarde au démarrage uniquement si nécessaire, société par défaut conservée localement.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.27-beta.zip",
-                                         "sha256":  "706d1533f8e5e76c63a3e82f2d6484be884297ad9bbf555f4b0498bd3bccc3cb"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.28-beta.zip",
+                                         "sha256":  "c619466e3484d6bdaeff6ec19596c8260ae8dfb55d4da7162c2cc0802c873a3d"
                                      }
                  }
 }
