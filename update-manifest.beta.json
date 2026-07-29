@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.28-beta",
+    "version":  "0.9.29-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.28 : optimisations d'ouverture et de sélection société, réduction des lectures réseau, sauvegarde au démarrage uniquement si nécessaire, société par défaut conservée localement.",
+    "notes":  "BETA 0.9.29 : correction du logo Factur.ia by MGF en haute résolution avec coins transparents propres, icône Windows multi-tailles et ajout de la forme juridique SC.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.28-beta.zip",
-                                         "sha256":  "c619466e3484d6bdaeff6ec19596c8260ae8dfb55d4da7162c2cc0802c873a3d"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.29-beta.zip",
+                                         "sha256":  "4cf0a57c10939b8a9807742663fd063ea9c38ea73b353fac554bc7e582bbaf05"
                                      }
                  }
 }
