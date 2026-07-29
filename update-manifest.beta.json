@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.30-beta",
+    "version":  "0.9.31-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.30 : ajout d'un assistant IA de test pour préparer des brouillons de devis/factures par texte ou dictée vocale Windows, avec validation obligatoire dans l'éditeur Factur.ia.",
+    "notes":  "BETA 0.9.31 : ajout du petit œil d'affichage/masquage sur les champs de mot de passe restants, notamment connexion, prompts Admin/Super Admin, maintenance et SQLCipher.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.30-beta.zip",
-                                         "sha256":  "f9de99b947dc37b5559d0f5244c4a69585baf4f34f2814b39ffa7063c312426a"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.31-beta.zip",
+                                         "sha256":  "38ee332089f6318a0f91482b86868abe181342478c732843287ef9810c6f71e2"
                                      }
                  }
 }
