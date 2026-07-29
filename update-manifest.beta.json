@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.26-beta",
+    "version":  "0.9.27-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.26 : correction du flux des fenêtres de clôture et suppression d'exercice ; les confirmations et mots de passe sont maintenant attendus correctement.",
+    "notes":  "BETA 0.9.27 : rôles utilisateur/admin/superadmin exclusifs ; Admin et Super Admin n'ont plus aucun droit métier ni droit société modifiable.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.26-beta.zip",
-                                         "sha256":  "fe8ebe0827cfaa366357de5f3954bdaeb2655c0dc5c86ff259df3362cb31c83e"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.27-beta.zip",
+                                         "sha256":  "706d1533f8e5e76c63a3e82f2d6484be884297ad9bbf555f4b0498bd3bccc3cb"
                                      }
                  }
 }
