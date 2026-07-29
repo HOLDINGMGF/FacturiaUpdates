@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.35-beta",
+    "version":  "0.9.36-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.35 : isolation des caches par utilisateur/société/exercice/base, sauvegarde puis rechargement depuis la base après création client/devis/facture, correction du changement de société, IA simplifiée texte + micro et représentant client repris via IA/SIRET.",
+    "notes":  "BETA 0.9.36 : correction stricte des clients par société. La base clients dédiée devient l'autorité au chargement/changement société, les sauvegardes générales ne réécrivent plus les clients, et le pointage lit chaque société directement dans sa propre base.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.35-beta.zip",
-                                         "sha256":  "617e93ca0fc053edbc77eb102454fb4231a22770421cdab9fa6804e4a1b32316"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.36-beta.zip",
+                                         "sha256":  "059dcc5084bc60371f1de57d98620498173e57509aa4e47c914beedc54100030"
                                      }
                  }
 }
