@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.47-beta",
+    "version":  "0.9.48-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.47 : relecture directe des droits utilisateurs depuis users.sqlite au login, avant sélection société et dans l'onglet Utilisateurs.",
+    "notes":  "BETA 0.9.48 : correction de l'accès Super Admin/Admin/Ultra Admin aux sociétés via rechargement du registre multiposte avant le calcul des droits.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.47-beta.zip",
-                                         "sha256":  "691b91bca5745c4ea179e9a4467a81982dd4f64f2b5260c646d33dee77c1e2fb"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.48-beta.zip",
+                                         "sha256":  "5996309701e837d766526d03dbac2aaa328df4aff8cbe279561a6deeb7b68134"
                                      }
                  }
 }
