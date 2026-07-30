@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.54-beta",
+    "version":  "0.9.55-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.54 : detection MAJ plus robuste, repli GitHub si raw.githubusercontent.com est filtre, bascule Changer de Societe securisee en multiposte et bouton Ouvrir cette societe retire de la gestion des societes.",
+    "notes":  "BETA 0.9.55 : assistant IA avec petite tete de mouton vectorielle sur le bouton flottant et dans le chat.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.54-beta.zip",
-                                         "sha256":  "3c0730881fcf859389bab6cfdbecbc4858789c762dc34c7f9031e8ac7ecebd8d"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.55-beta.zip",
+                                         "sha256":  "ba999127c423659d71976ebd6cf8637aaeacef5c761fbfd7ee74fe4195ff5362"
                                      }
                  }
 }
