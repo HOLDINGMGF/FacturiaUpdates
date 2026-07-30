@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.53-beta",
+    "version":  "0.9.54-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.53 : watchdog anti-blocage, log de freeze et arrêt forcé de secours si l\u0027interface ne répond plus.",
+    "notes":  "BETA 0.9.54 : detection MAJ plus robuste, repli GitHub si raw.githubusercontent.com est filtre, bascule Changer de Societe securisee en multiposte et bouton Ouvrir cette societe retire de la gestion des societes.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.53-beta.zip",
-                                         "sha256":  "d357807f11889f5bca962daba59c2475d1101e96802dc3f5b9797535bb319ec5"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.54-beta.zip",
+                                         "sha256":  "3c0730881fcf859389bab6cfdbecbc4858789c762dc34c7f9031e8ac7ecebd8d"
                                      }
                  }
 }
