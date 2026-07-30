@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.52-beta",
+    "version":  "0.9.53-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.52 : SIRET/téléphone client sans espaces en base, indicatif téléphone avec drapeau, affichage formaté, liens mail/téléphone et impression de fiche client.",
+    "notes":  "BETA 0.9.53 : watchdog anti-blocage, log de freeze et arrêt forcé de secours si l\u0027interface ne répond plus.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.52-beta.zip",
-                                         "sha256":  "713aa9e25694a38f31d06e67dcdc19adf50edb98c7be1f4976da706204fe4859"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.53-beta.zip",
+                                         "sha256":  "d357807f11889f5bca962daba59c2475d1101e96802dc3f5b9797535bb319ec5"
                                      }
                  }
 }
