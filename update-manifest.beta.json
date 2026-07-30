@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.42-beta",
+    "version":  "0.9.43-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.42 : sécurisation des droits utilisateurs en multiposte, version affichée au chargement et proposition d'installation avant ouverture si une mise à jour est disponible.",
+    "notes":  "BETA 0.9.43 : correction de Gestion des sociétés en multiposte. L'écran affiche maintenant toutes les sociétés du registre partagé, pas seulement la société ouverte.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.42-beta.zip",
-                                         "sha256":  "3de3702e228f882b81c1d44b77e0d41878bc4d9608c8b9ebee9df95ca4ecbb0f"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.43-beta.zip",
+                                         "sha256":  "749ed44e33389f73d0aa6ad29a1674bea0850157bb43e6c91d8425a68ae3f28a"
                                      }
                  }
 }
