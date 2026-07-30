@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.46-beta",
+    "version":  "0.9.47-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.46 : sécurisation du login utilisateur, indicateur de connexion en cours, timeout sur le verrou de session multiposte et optimisation du chargement post-login.",
+    "notes":  "BETA 0.9.47 : relecture directe des droits utilisateurs depuis users.sqlite au login, avant sélection société et dans l'onglet Utilisateurs.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.46-beta.zip",
-                                         "sha256":  "e314e189cd0d48bdbad35303041305c7215094ca3aba37fd1dcd1de28405189f"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.47-beta.zip",
+                                         "sha256":  "691b91bca5745c4ea179e9a4467a81982dd4f64f2b5260c646d33dee77c1e2fb"
                                      }
                  }
 }
