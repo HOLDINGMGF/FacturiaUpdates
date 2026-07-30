@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.58-beta",
+    "version":  "0.9.59-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.58 : retrait de la gestion des droits depuis Gestion des societes et suppression d'une societe autorisee uniquement si tous ses exercices sont clotures.",
+    "notes":  "BETA 0.9.59 : ajustement de la grille Clients avec statut plus compact, client reduit, colonnes Code postal et Ville separees, et ville agrandie.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.58-beta.zip",
-                                         "sha256":  "0c11da5a9ce78693f275187ff18cdbb9a1ef0ac84ec168b23aa2f5ae7458f62a"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.59-beta.zip",
+                                         "sha256":  "fe71635b03fcd9958a5df9da382f7864f38f5111e478079ade4d1c500c71946f"
                                      }
                  }
 }
