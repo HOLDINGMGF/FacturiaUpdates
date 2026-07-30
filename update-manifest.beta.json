@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.55-beta",
+    "version":  "0.9.56-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.55 : assistant IA avec petite tete de mouton vectorielle sur le bouton flottant et dans le chat.",
+    "notes":  "BETA 0.9.56 : IA avec memoire courte du brouillon, recherche naturelle des documents, filtre hors-sujet sans consommation de requete, boutons fiche client repositionnes et fiche societe telephone/SIRET comme les clients.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.55-beta.zip",
-                                         "sha256":  "ba999127c423659d71976ebd6cf8637aaeacef5c761fbfd7ee74fe4195ff5362"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.56-beta.zip",
+                                         "sha256":  "708ffad25848c4999e2543e777b86f2208fbddf69e23499a3366dd5bbd284255"
                                      }
                  }
 }
