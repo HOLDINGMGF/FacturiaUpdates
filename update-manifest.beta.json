@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.41-beta",
+    "version":  "0.9.42-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.41 : nouvel écran de connexion avec fond illustré premium, carte login translucide et bandeaux en dégradé bleu inspiré du logo Factur.ia by MGF.",
+    "notes":  "BETA 0.9.42 : sécurisation des droits utilisateurs en multiposte, version affichée au chargement et proposition d'installation avant ouverture si une mise à jour est disponible.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.41-beta.zip",
-                                         "sha256":  "5be744b1ad847a36b0418c1e4da59c36985054ea88ce1c77afd78500f53cb6b5"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.42-beta.zip",
+                                         "sha256":  "3de3702e228f882b81c1d44b77e0d41878bc4d9608c8b9ebee9df95ca4ecbb0f"
                                      }
                  }
 }
