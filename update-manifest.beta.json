@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.49-beta",
+    "version":  "0.9.50-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.49 : optimisation du login, de la sélection société et des paramètres avec chargement léger des sociétés et onglets paramètres chargés à la demande.",
+    "notes":  "BETA 0.9.50 : ajout de la clé IA partagée chiffrée, import automatique dans les paramètres Factur.ia et suppression du besoin de .env.local sur chaque poste.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.49-beta.zip",
-                                         "sha256":  "dd8866dff3a0773aeb214ef38f7f862706b25f142052135e29ee07451cc2b0b5"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.50-beta.zip",
+                                         "sha256":  "1c05adbbcf438a6c06929f95bad24671acce7fdc0c80983032b5463c63742217"
                                      }
                  }
 }
