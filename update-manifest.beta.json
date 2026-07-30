@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.39-beta",
+    "version":  "0.9.40-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.39 : correction critique d'isolation société/client. Le changement de société ouvre physiquement la bonne base, les sauvegardes client sont bloquées si le store actif ne correspond pas, et les bases clients purgent les lignes appartenant à une autre société.",
+    "notes":  "BETA 0.9.40 : amélioration fiche client entreprise. La recherche SIRET/IA renseigne mieux forme juridique, email et téléphone entreprise, les champs prénom/nom sont masqués pour les entreprises, les libellés sont clarifiés et le panneau Options inutile de la fiche client est supprimé.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.39-beta.zip",
-                                         "sha256":  "5f0472543a571641d88eaf5625196fe49ae7229a698d3c5ddf4f0ea082afb583"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.40-beta.zip",
+                                         "sha256":  "c9f8511e1585b080b1e13e26b5685c3e342f9d2e19733959e2e53c09bc151a97"
                                      }
                  }
 }
