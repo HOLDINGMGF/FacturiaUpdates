@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.51-beta",
+    "version":  "0.9.52-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.51 : assistant IA étendu pour créer des fiches client, préparer devis/factures, exporter, envoyer par mail et imprimer les documents depuis le chat.",
+    "notes":  "BETA 0.9.52 : SIRET/téléphone client sans espaces en base, indicatif téléphone avec drapeau, affichage formaté, liens mail/téléphone et impression de fiche client.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.51-beta.zip",
-                                         "sha256":  "6c994163c8470a19020f06b2ec4ddc06bc043d0ff7ee590e1ecb9180bc997516"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.52-beta.zip",
+                                         "sha256":  "713aa9e25694a38f31d06e67dcdc19adf50edb98c7be1f4976da706204fe4859"
                                      }
                  }
 }
