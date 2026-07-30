@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.44-beta",
+    "version":  "0.9.45-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.44 : ajout du quota IA par utilisateur, 50 requêtes/mois par défaut, packs IA attribuables par licence et blocage quand le quota mensuel est atteint.",
+    "notes":  "BETA 0.9.45 : ajout du bouton poussoir pour désactiver l'assistant IA, masquage du bouton chat IA si désactivé et correction de l'affichage de l'onglet Licence.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.44-beta.zip",
-                                         "sha256":  "83c6567823dedef9c6303679b09583d76770da61c2656dd7662e138cb2679fac"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.45-beta.zip",
+                                         "sha256":  "13f2a2877faa55393856d1382966720906a1dd5d850ce2122b34de6ed388ab55"
                                      }
                  }
 }
