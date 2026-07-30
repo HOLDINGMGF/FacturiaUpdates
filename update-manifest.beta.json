@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.57-beta",
+    "version":  "0.9.58-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.57 : assistant IA avec ajout d'image JPG/PNG/WebP dans le chat, analyse prudente de photos professionnelles pour brouillons de devis/factures et debit de 5 credits IA par demande avec image.",
+    "notes":  "BETA 0.9.58 : retrait de la gestion des droits depuis Gestion des societes et suppression d'une societe autorisee uniquement si tous ses exercices sont clotures.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.57-beta.zip",
-                                         "sha256":  "5b41e6e59a11a6eb8077478e2b2e490d254bc864d4c72f3ca9ddaacde2c27531"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.58-beta.zip",
+                                         "sha256":  "0c11da5a9ce78693f275187ff18cdbb9a1ef0ac84ec168b23aa2f5ae7458f62a"
                                      }
                  }
 }
