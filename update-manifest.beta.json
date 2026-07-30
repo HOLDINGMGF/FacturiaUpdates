@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.40-beta",
+    "version":  "0.9.41-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.40 : amélioration fiche client entreprise. La recherche SIRET/IA renseigne mieux forme juridique, email et téléphone entreprise, les champs prénom/nom sont masqués pour les entreprises, les libellés sont clarifiés et le panneau Options inutile de la fiche client est supprimé.",
+    "notes":  "BETA 0.9.41 : nouvel écran de connexion avec fond illustré premium, carte login translucide et bandeaux en dégradé bleu inspiré du logo Factur.ia by MGF.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.40-beta.zip",
-                                         "sha256":  "c9f8511e1585b080b1e13e26b5685c3e342f9d2e19733959e2e53c09bc151a97"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.41-beta.zip",
+                                         "sha256":  "5be744b1ad847a36b0418c1e4da59c36985054ea88ce1c77afd78500f53cb6b5"
                                      }
                  }
 }
