@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.11.11-beta",
+    "version":  "0.11.12-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.11.11 : émission SuperPDP corrigée en multipart/form-data avec le PDF Factur-X dans le champ fichier file, plus identifiant externe transmis dans le formulaire.",
+    "notes":  "BETA 0.11.12 : correction de la modification des devis/factures quand le client ne se réaffichait pas dans le bloc client, avec conservation sécurisée du client lors de l'enregistrement.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.11-beta.zip",
-                                         "sha256":  "1cf474a3b37aba0ebf56ac8c37d2bea3b5e8348ef76a78901d897d82c2f78a20"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.12-beta.zip",
+                                         "sha256":  "cfbd5a0fe2c998221ab5435849910900abe8de9264d34b296b14af645fa61ad1"
                                      }
                  }
 }
