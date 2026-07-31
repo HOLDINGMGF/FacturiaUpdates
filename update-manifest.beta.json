@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.11.16-beta",
+    "version":  "0.11.17-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.11.16 : factures achats améliorées avec bouton Ouvrir facture, double-clic d'ouverture, fournisseur SuperPDP mieux détecté et conservation du payload reçu.",
+    "notes":  "BETA 0.11.17 : numérotation devis/factures continue sur l'exercice complet sans remise à zéro mensuelle, factures d'acompte incluses dans la séquence FAC, et sécurité renforcée contre l'écrasement accidentel de bases.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.16-beta.zip",
-                                         "sha256":  "92c11cb08fcd52b8d1faca8eb42c1ed64fa1bbd40777e2ea8f0c45e6624cae44"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.17-beta.zip",
+                                         "sha256":  "c9c660d30dbb2d7b54cdbcd6e9d6095f511fb6d44c59583737645742ea38f046"
                                      }
                  }
 }
