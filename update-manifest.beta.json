@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.11.13-beta",
+    "version":  "0.11.14-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.11.13 : correction Factur-X/SuperPDP avec XML CII rsm:CrossIndustryInvoice embarqué dans le PDF Factur-X au lieu du XML interne simplifié.",
+    "notes":  "BETA 0.11.14 : correction de la duplication des devis/factures avec nouvel identifiant forcé, numéro recalculé à l'enregistrement et conservation du snapshot client.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.13-beta.zip",
-                                         "sha256":  "a1d8eeda647aebf32ad5743b343da29c88d5b4532ab0349f3e20d9d594f8199d"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.14-beta.zip",
+                                         "sha256":  "f456039c8cb12520b5f53af3b107586ec1b9ce8b1e5be7cff0a8c137c74a7d5a"
                                      }
                  }
 }
