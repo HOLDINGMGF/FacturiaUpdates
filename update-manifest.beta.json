@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.11.12-beta",
+    "version":  "0.11.13-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.11.12 : correction de la modification des devis/factures quand le client ne se réaffichait pas dans le bloc client, avec conservation sécurisée du client lors de l'enregistrement.",
+    "notes":  "BETA 0.11.13 : correction Factur-X/SuperPDP avec XML CII rsm:CrossIndustryInvoice embarqué dans le PDF Factur-X au lieu du XML interne simplifié.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.12-beta.zip",
-                                         "sha256":  "cfbd5a0fe2c998221ab5435849910900abe8de9264d34b296b14af645fa61ad1"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.13-beta.zip",
+                                         "sha256":  "a1d8eeda647aebf32ad5743b343da29c88d5b4532ab0349f3e20d9d594f8199d"
                                      }
                  }
 }
