@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.62-beta",
+    "version":  "0.9.63-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.62 : export PDF protege si le fichier est deja ouvert, lignes PDF mieux espacees, date limite de validite des devis en preview/PDF, et correction des echeances debut/fin de mois + jours.",
+    "notes":  "BETA 0.9.63 : correction definitive de l'echeance affichee en previsualisation/PDF/mail/impression avec recalcul depuis les conditions de paiement actives, notamment paiement debut de mois + 5 jours.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.62-beta.zip",
-                                         "sha256":  "f88ba0d52c864002008b1b3716a7f6dad70aaa59db7f52c89af6638150f5fa64"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.63-beta.zip",
+                                         "sha256":  "ee94e56a160bafd6513ad3adaf683b23a3212d173a33fda6bde90185c2d6d921"
                                      }
                  }
 }
