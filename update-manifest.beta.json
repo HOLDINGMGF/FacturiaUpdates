@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.60-beta",
+    "version":  "0.9.61-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.60 : correction archivage clients en base dediee, fiche client avec representant email/telephone et 5 contacts, date echeance facture en preview/PDF, TVA %, format telephone/SIRET, pied de page Factur.ia et impression via PDF temporaire.",
+    "notes":  "BETA 0.9.61 : correction PDF date echeance non coupee, lignes multi-lignes avec separateur adapte, texte PDF lie a la couleur accent, telephone +33 sans zero national, et mention Factur.ia plus discrete sous le numero de page.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.60-beta.zip",
-                                         "sha256":  "2d13efe09d2fafb35212aef07bc7e0fd75b3c62e9d1933bd36f6036a2219c219"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.61-beta.zip",
+                                         "sha256":  "0f076babc807a1ce45efb821c9954fcdd2cd889a9f6e6de4938f3da8a64499be"
                                      }
                  }
 }
