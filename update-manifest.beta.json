@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.11.8-beta",
+    "version":  "0.11.9-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.11.8 : le bouton Tester configuration effectue maintenant un vrai test OAuth SuperPDP via /oauth2/token et affiche un message clair selon la réponse.",
+    "notes":  "BETA 0.11.9 : synchronisation réelle SuperPDP des factures achats via /v1.beta/invoices direction=in et émission réelle des e-factures vers SuperPDP via /v1.beta/invoices, avec historique succès/erreur.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.8-beta.zip",
-                                         "sha256":  "2ae2bd37e7a69b99a1c6fcc2a683496d90dd1f5b31f2feac0feac3ad24901bd9"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.9-beta.zip",
+                                         "sha256":  "4e17296f52374737a42ee9eb8954fb5dff33704fb23d40316da4cd329bec3cf6"
                                      }
                  }
 }
