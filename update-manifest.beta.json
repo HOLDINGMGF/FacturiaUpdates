@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.11.6-beta",
+    "version":  "0.11.7-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.11.6 : registre avec suppression multiple, pagination à 25 paiements, recherche enrichie, export PDF limité au filtre appliqué, colonnes facture/client ajustées et export PDF corrigé. Devis et factures ont aussi une pagination à 25 lignes et une recherche plus complète.",
+    "notes":  "BETA 0.11.7 : registre paiements avec colonne Facture doublée, colonne Client divisée par deux, et export PDF du registre ajusté pour laisser beaucoup plus de place à la facture.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.6-beta.zip",
-                                         "sha256":  "02bbb9009e4b461531385dc92a695f50d41827a5c0bf79db16cd130b0a957881"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.7-beta.zip",
+                                         "sha256":  "c59088e201cde3040651727acbabef9ccc62af0b490bc7d7a283bd54b1bbc12c"
                                      }
                  }
 }
