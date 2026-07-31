@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.11.7-beta",
+    "version":  "0.11.8-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.11.7 : registre paiements avec colonne Facture doublée, colonne Client divisée par deux, et export PDF du registre ajusté pour laisser beaucoup plus de place à la facture.",
+    "notes":  "BETA 0.11.8 : le bouton Tester configuration effectue maintenant un vrai test OAuth SuperPDP via /oauth2/token et affiche un message clair selon la réponse.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.7-beta.zip",
-                                         "sha256":  "c59088e201cde3040651727acbabef9ccc62af0b490bc7d7a283bd54b1bbc12c"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.8-beta.zip",
+                                         "sha256":  "2ae2bd37e7a69b99a1c6fcc2a683496d90dd1f5b31f2feac0feac3ad24901bd9"
                                      }
                  }
 }
