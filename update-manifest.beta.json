@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.11.1-beta",
+    "version":  "0.11.2-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.11.1 : correction du changement de statut Partiellement payee et Payee depuis la liste des factures en multiposte. Le paiement est ajoute sur la base fraichement relue et n est plus perdu a la sauvegarde.",
+    "notes":  "BETA 0.11.2 : deduction automatique des factures d acompte HT lors de la facture definitive, et correction du statut Payee/Partiellement payee qui pouvait revenir a Facturee apres rafraichissement ou changement d onglet.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.1-beta.zip",
-                                         "sha256":  "2b4e67e257385806094dce0299cf556db29a13c14d69690481a897d05f0b1187"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.2-beta.zip",
+                                         "sha256":  "25f79effe6c0ae402da52cde87352029a3b33ddadc9be9c7b5c169f21238c212"
                                      }
                  }
 }
