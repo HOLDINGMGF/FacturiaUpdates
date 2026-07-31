@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.63-beta",
+    "version":  "0.10.0-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.63 : correction definitive de l'echeance affichee en previsualisation/PDF/mail/impression avec recalcul depuis les conditions de paiement actives, notamment paiement debut de mois + 5 jours.",
+    "notes":  "BETA 0.10.0 : registre des paiements avec droit dedie et export PDF, paiement facture avec date/mode obligatoires, tableau de bord HT/TTC/TVA collectee, PDF multipage des lignes longues, TVA sans %, correction perte client en edition et facture datable a J-1.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.63-beta.zip",
-                                         "sha256":  "ee94e56a160bafd6513ad3adaf683b23a3212d173a33fda6bde90185c2d6d921"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.10.0-beta.zip",
+                                         "sha256":  "b5db65301fa10b908a8a5df3000e4d7013d37cbe4cafb063cbe9fff115175156"
                                      }
                  }
 }
