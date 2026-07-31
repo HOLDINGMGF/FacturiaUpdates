@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.10.0-beta",
+    "version":  "0.10.1-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.10.0 : registre des paiements avec droit dedie et export PDF, paiement facture avec date/mode obligatoires, tableau de bord HT/TTC/TVA collectee, PDF multipage des lignes longues, TVA sans %, correction perte client en edition et facture datable a J-1.",
+    "notes":  "BETA 0.10.1 : le registre des paiements utilise maintenant une vraie table payments dans la base d exercice/societe, avec migration automatique des factures/avoirs payes, export PDF depuis les montants figes et synchronisation multiposte.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.10.0-beta.zip",
-                                         "sha256":  "b5db65301fa10b908a8a5df3000e4d7013d37cbe4cafb063cbe9fff115175156"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.10.1-beta.zip",
+                                         "sha256":  "c0f424c0b6989f065ace4b41a56e0ead452242a87e8eeac8d32aecbec38faa6f"
                                      }
                  }
 }
