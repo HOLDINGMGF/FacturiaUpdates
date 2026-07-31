@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.11.14-beta",
+    "version":  "0.11.15-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.11.14 : correction de la duplication des devis/factures avec nouvel identifiant forcé, numéro recalculé à l'enregistrement et conservation du snapshot client.",
+    "notes":  "BETA 0.11.15 : blocage clair de l'émission e-facture B2B pour les clients B2C/particuliers et message explicite pour l'erreur SuperPDP invalid B2C invoice for e-reporting.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.14-beta.zip",
-                                         "sha256":  "f456039c8cb12520b5f53af3b107586ec1b9ce8b1e5be7cff0a8c137c74a7d5a"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.15-beta.zip",
+                                         "sha256":  "b304f37797f2bee90b2d1bd3a6f62aae7940576c06365484a804962e3ac132a6"
                                      }
                  }
 }
