@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.9.59-beta",
+    "version":  "0.9.60-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.9.59 : ajustement de la grille Clients avec statut plus compact, client reduit, colonnes Code postal et Ville separees, et ville agrandie.",
+    "notes":  "BETA 0.9.60 : correction archivage clients en base dediee, fiche client avec representant email/telephone et 5 contacts, date echeance facture en preview/PDF, TVA %, format telephone/SIRET, pied de page Factur.ia et impression via PDF temporaire.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.59-beta.zip",
-                                         "sha256":  "fe71635b03fcd9958a5df9da382f7864f38f5111e478079ade4d1c500c71946f"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.9.60-beta.zip",
+                                         "sha256":  "2d13efe09d2fafb35212aef07bc7e0fd75b3c62e9d1933bd36f6036a2219c219"
                                      }
                  }
 }
