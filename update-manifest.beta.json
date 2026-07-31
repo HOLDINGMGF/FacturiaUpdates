@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.10.1-beta",
+    "version":  "0.11.0-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.10.1 : le registre des paiements utilise maintenant une vraie table payments dans la base d exercice/societe, avec migration automatique des factures/avoirs payes, export PDF depuis les montants figes et synchronisation multiposte.",
+    "notes":  "BETA 0.11.0 : paiements partiels et acomptes, factures d acompte depuis devis, registre paiements multi-lignes, onglet factures achats manuel independant de la facturation electronique, interrupteur pour desactiver les factures achats et nouveau droit utilisateur Lecture factures achats.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.10.1-beta.zip",
-                                         "sha256":  "c0f424c0b6989f065ace4b41a56e0ead452242a87e8eeac8d32aecbec38faa6f"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.0-beta.zip",
+                                         "sha256":  "e8b76627aa62469e53b30e5bc8619be438395e67309ecde0d81b002fd97a29e2"
                                      }
                  }
 }
