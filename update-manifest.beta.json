@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.11.4-beta",
+    "version":  "0.11.5-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.11.4 : ajout de l import CSV bancaire dans le Registre avec rapprochement automatique des encaissements, passage des factures en Payee ou Partiellement payee, mode de paiement detecte et date d operation bancaire utilisee comme date de paiement.",
+    "notes":  "BETA 0.11.5 : import CSV bancaire plus sûr avec fenêtre de traitement, validation manuelle des rapprochements incertains, lignes non rapprochées listées, bouton Supprimer paiement avec recalcul rétroactif des factures, et correction du séparateur des lignes PDF.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.4-beta.zip",
-                                         "sha256":  "9da16f262a17eb9e4b97b134aed418e70b2a6b3351748b0bbc4769a61c2823d5"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.5-beta.zip",
+                                         "sha256":  "5c4c7be510bfea5b2a825e38f1b1e2abe69a635fe834e514d3e4efcb893fe189"
                                      }
                  }
 }
