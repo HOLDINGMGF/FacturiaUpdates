@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.11.5-beta",
+    "version":  "0.11.6-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.11.5 : import CSV bancaire plus sûr avec fenêtre de traitement, validation manuelle des rapprochements incertains, lignes non rapprochées listées, bouton Supprimer paiement avec recalcul rétroactif des factures, et correction du séparateur des lignes PDF.",
+    "notes":  "BETA 0.11.6 : registre avec suppression multiple, pagination à 25 paiements, recherche enrichie, export PDF limité au filtre appliqué, colonnes facture/client ajustées et export PDF corrigé. Devis et factures ont aussi une pagination à 25 lignes et une recherche plus complète.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.5-beta.zip",
-                                         "sha256":  "5c4c7be510bfea5b2a825e38f1b1e2abe69a635fe834e514d3e4efcb893fe189"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.6-beta.zip",
+                                         "sha256":  "02bbb9009e4b461531385dc92a695f50d41827a5c0bf79db16cd130b0a957881"
                                      }
                  }
 }
