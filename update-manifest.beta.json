@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.11.3-beta",
+    "version":  "0.11.4-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.11.3 : le changement de statut facture attend la validation de la fenetre de paiement et s actualise immediatement dans l onglet Factures, sans attendre un changement d onglet.",
+    "notes":  "BETA 0.11.4 : ajout de l import CSV bancaire dans le Registre avec rapprochement automatique des encaissements, passage des factures en Payee ou Partiellement payee, mode de paiement detecte et date d operation bancaire utilisee comme date de paiement.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.3-beta.zip",
-                                         "sha256":  "2a2c5c0607c41eef573aa355244c0e747e074de5d0be8f85fc3b82f3f6ebbb01"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.4-beta.zip",
+                                         "sha256":  "9da16f262a17eb9e4b97b134aed418e70b2a6b3351748b0bbc4769a61c2823d5"
                                      }
                  }
 }
