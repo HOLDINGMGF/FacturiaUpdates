@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.11.2-beta",
+    "version":  "0.11.3-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.11.2 : deduction automatique des factures d acompte HT lors de la facture definitive, et correction du statut Payee/Partiellement payee qui pouvait revenir a Facturee apres rafraichissement ou changement d onglet.",
+    "notes":  "BETA 0.11.3 : le changement de statut facture attend la validation de la fenetre de paiement et s actualise immediatement dans l onglet Factures, sans attendre un changement d onglet.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.2-beta.zip",
-                                         "sha256":  "25f79effe6c0ae402da52cde87352029a3b33ddadc9be9c7b5c169f21238c212"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.3-beta.zip",
+                                         "sha256":  "2a2c5c0607c41eef573aa355244c0e747e074de5d0be8f85fc3b82f3f6ebbb01"
                                      }
                  }
 }
