@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.11.18-beta",
+    "version":  "0.11.19-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.11.18 : correction du rendu PDF des devis/factures avec moins d'espace entre les lignes et un trait de séparation mieux positionné sous les désignations multi-lignes.",
+    "notes":  "BETA 0.11.19 : ajustement fin du rendu PDF des devis/factures, avec traits de séparation rapprochés de la désignation précédente et léger espace avant la ligne suivante.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.18-beta.zip",
-                                         "sha256":  "9d1bb0bc7d2734b76ab9c4723d6444014aae9420f004008488c10a48a5f90426"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.19-beta.zip",
+                                         "sha256":  "c4bfe75b4300bc9d81a89f2304806bc3d34075dda09de4b9fdce844d8646490c"
                                      }
                  }
 }
