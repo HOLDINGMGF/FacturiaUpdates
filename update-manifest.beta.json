@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.11.19-beta",
+    "version":  "0.11.20-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.11.19 : ajustement fin du rendu PDF des devis/factures, avec traits de séparation rapprochés de la désignation précédente et léger espace avant la ligne suivante.",
+    "notes":  "BETA 0.11.20 : correction fine du centrage des lignes PDF devis/factures et ouverture d'une vraie fiche paiement depuis le registre, avec export PDF, impression et bouton pour voir la facture associée.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.19-beta.zip",
-                                         "sha256":  "c4bfe75b4300bc9d81a89f2304806bc3d34075dda09de4b9fdce844d8646490c"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.20-beta.zip",
+                                         "sha256":  "73e7c4b4033c30f4d2c2e9808564aeb6e1e292aedde332e48c570debdb09badf"
                                      }
                  }
 }
