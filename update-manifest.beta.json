@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.11.21-beta",
+    "version":  "0.11.22-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.11.21 : ajout des numéros de paiement visibles, fiche des paiements associés depuis une facture payée, export PDF et impression de tous les paiements d'une facture.",
+    "notes":  "BETA 0.11.22 : correction du bouton flottant IA, repositionné plus bas pour ne plus masquer le statut de la dernière facture.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.21-beta.zip",
-                                         "sha256":  "bddaf2a50012c1dab0cbf305af9338a09a01931cbdf71b37cd8c087328000e07"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.22-beta.zip",
+                                         "sha256":  "e00190c84a2a636c9e364b9974925ac7f971d23dfbb5c6e1313763070c3f06bf"
                                      }
                  }
 }
