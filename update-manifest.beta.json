@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.11.20-beta",
+    "version":  "0.11.21-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.11.20 : correction fine du centrage des lignes PDF devis/factures et ouverture d'une vraie fiche paiement depuis le registre, avec export PDF, impression et bouton pour voir la facture associée.",
+    "notes":  "BETA 0.11.21 : ajout des numéros de paiement visibles, fiche des paiements associés depuis une facture payée, export PDF et impression de tous les paiements d'une facture.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.20-beta.zip",
-                                         "sha256":  "73e7c4b4033c30f4d2c2e9808564aeb6e1e292aedde332e48c570debdb09badf"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.21-beta.zip",
+                                         "sha256":  "bddaf2a50012c1dab0cbf305af9338a09a01931cbdf71b37cd8c087328000e07"
                                      }
                  }
 }
