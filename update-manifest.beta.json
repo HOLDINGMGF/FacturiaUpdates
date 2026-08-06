@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.11.22-beta",
+    "version":  "0.12.1-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.11.22 : correction du bouton flottant IA, repositionné plus bas pour ne plus masquer le statut de la dernière facture.",
+    "notes":  "BETA 0.12.1 : ajout du code NAF/APE société avec préremplissage SIRET si disponible, affichage NAF sur les PDF devis/factures, onglets Informations de paiement et Paiements dans la fiche client.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.11.22-beta.zip",
-                                         "sha256":  "e00190c84a2a636c9e364b9974925ac7f971d23dfbb5c6e1313763070c3f06bf"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.12.1-beta.zip",
+                                         "sha256":  "45f7f50029e8b69d2a82d4e43b04ff38daec89133d6f6543e82cc6124475f3cc"
                                      }
                  }
 }
