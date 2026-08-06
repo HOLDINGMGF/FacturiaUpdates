@@ -1,14 +1,14 @@
 ﻿{
-    "version":  "0.12.1-beta",
+    "version":  "0.12.2-beta",
     "minimumVersion":  "0.9.0",
     "type":  "patch",
     "url":  "",
     "sha256":  "",
-    "notes":  "BETA 0.12.1 : ajout du code NAF/APE société avec préremplissage SIRET si disponible, affichage NAF sur les PDF devis/factures, onglets Informations de paiement et Paiements dans la fiche client.",
+    "notes":  "BETA 0.12.2 : export/import multiposte compatible Windows/macOS avec choix du dossier workspace si le chemin d origine est introuvable sur le poste de reimport.",
     "packages":  {
                      "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.12.1-beta.zip",
-                                         "sha256":  "45f7f50029e8b69d2a82d4e43b04ff38daec89133d6f6543e82cc6124475f3cc"
+                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.12.2-beta.zip",
+                                         "sha256":  "dbe6d5769f415cb5459abe14a9bf6cbf7763ca16314024579b997664220afdeb"
                                      }
                  }
 }
