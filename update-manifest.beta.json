@@ -1,14 +1,19 @@
-﻿{
-    "version":  "0.12.2-beta",
-    "minimumVersion":  "0.9.0",
-    "type":  "patch",
-    "url":  "",
-    "sha256":  "",
-    "notes":  "BETA 0.12.2 : export/import multiposte compatible Windows/macOS avec choix du dossier workspace si le chemin d origine est introuvable sur le poste de reimport.",
-    "packages":  {
-                     "windows-x64":  {
-                                         "url":  "https://raw.githubusercontent.com/HOLDINGMGF/FacturiaUpdates/main/update-test/facturia-patch-windows-x64-0.12.2-beta.zip",
-                                         "sha256":  "dbe6d5769f415cb5459abe14a9bf6cbf7763ca16314024579b997664220afdeb"
-                                     }
-                 }
+{
+  "version": "0.13.1",
+  "minimumVersion": "0.9.0",
+  "type": "patch",
+  "url": "",
+  "sha256": "",
+  "notes": "Facturia 0.13.1 : version minimale dans la base, blocage des postes incompatibles avec installation de la mise a jour, protection des ecritures anciennes, UUID et integrite SQLCipher. Sauvegardez la base et fermez les autres postes avant migration. Mettez tous les postes a jour en 0.13.1.",
+  "installerUrl": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.1/Setup-Facturia.exe",
+  "packages": {
+    "windows-x64": {
+      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.1/facturia-patch-windows-x64-0.13.1.zip",
+      "sha256": "5b7995b499d57925271cc83ded0517d9bacf8943169ff5b08e3d6362bef05d53"
+    },
+    "macos-arm64": {
+      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.1/facturia-patch-macos-arm64-0.13.1.zip",
+      "sha256": "a0b8cd5415dedcd2df102bc396d1a71a5f825474246b64d769d42238ca86d2b1"
+    }
+  }
 }
