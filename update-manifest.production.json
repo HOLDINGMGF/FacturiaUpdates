@@ -1,19 +1,19 @@
 {
-  "version": "0.13.1",
+  "version": "0.13.2",
   "minimumVersion": "0.9.0",
   "type": "patch",
   "url": "",
   "sha256": "",
-  "notes": "Facturia 0.13.1 : version minimale dans la base, blocage des postes incompatibles avec installation de la mise a jour, protection des ecritures anciennes, UUID et integrite SQLCipher. Sauvegardez la base et fermez les autres postes avant migration. Mettez tous les postes a jour en 0.13.1.",
-  "installerUrl": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.1/Setup-Facturia.exe",
+  "notes": "Facturia 0.13.2 : correction du plantage au demarrage Cannot show window with non-visible owner. Ouverture de la base apres affichage de la fenetre, erreurs initiales journalisees. Inclut le controle de compatibilite et les protections SQLCipher 0.13.1. Fermez Facturia avant installation.",
+  "installerUrl": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.2/Setup-Facturia.exe",
   "packages": {
     "windows-x64": {
-      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.1/facturia-patch-windows-x64-0.13.1.zip",
-      "sha256": "5b7995b499d57925271cc83ded0517d9bacf8943169ff5b08e3d6362bef05d53"
+      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.2/facturia-patch-windows-x64-0.13.2.zip",
+      "sha256": "b5b712d722ca9ca9b2869e0665a2127feec3d91faad85866c1a2bc7c0429fcff"
     },
     "macos-arm64": {
-      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.1/facturia-patch-macos-arm64-0.13.1.zip",
-      "sha256": "a0b8cd5415dedcd2df102bc396d1a71a5f825474246b64d769d42238ca86d2b1"
+      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.2/facturia-patch-macos-arm64-0.13.2.zip",
+      "sha256": "adb1d42e461fcc3afa774008d492d8b96d57b541183fe7b4516900511362bc6d"
     }
   }
 }
