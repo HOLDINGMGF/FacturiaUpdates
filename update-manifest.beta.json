@@ -1,19 +1,19 @@
 {
-  "version": "0.13.5",
+  "version": "0.13.6",
   "minimumVersion": "0.9.0",
   "type": "patch",
   "url": "",
   "sha256": "",
-  "notes": "Facturia 0.13.5 : designations et informations avec retour automatique a la ligne, champs chiffres accessibles sous la designation, fleches a gauche et corbeille a droite. Le zero initial est remplace a la saisie. PDF sans limite de six lignes, avec continuation sur plusieurs pages et mots longs correctement coupes. Aucun nouveau changement de schema. Fermez Facturia avant installation.",
-  "installerUrl": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.5/Setup-Facturia.exe",
+  "notes": "Facturia 0.13.6 : designation, quantite, prix, TVA et remise restent cote a cote sur une seule rangee. Seul le texte revient a la ligne dans sa cellule. Enregistrer garde le document ouvert ; Enregistrer et fermer sauvegarde puis ferme. Les enregistrements successifs conservent le numero et le verrou sans doublon. Corrections PDF conservees, aucun changement de schema. Fermez Facturia avant installation.",
+  "installerUrl": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.6/Setup-Facturia.exe",
   "packages": {
     "windows-x64": {
-      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.5/facturia-patch-windows-x64-0.13.5.zip",
-      "sha256": "9bfdac3e2190213bada1e1c97ff8ae44fe94226987d2e81002fb667bec47774f"
+      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.6/facturia-patch-windows-x64-0.13.6.zip",
+      "sha256": "d477d741a0410a1c0900207378cf127a5ef7586626d6b2cf4fac3f8ff4620e25"
     },
     "macos-arm64": {
-      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.5/facturia-patch-macos-arm64-0.13.5.zip",
-      "sha256": "0d7b674f032b0cfcc75c89166f3b21363838f2f8dc6cc169ebabfc08a0126376"
+      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.6/facturia-patch-macos-arm64-0.13.6.zip",
+      "sha256": "0538bbc672a4a7c26ebadfbd331e8ad0a2f3b5708a6733041708da391b2a12a9"
     }
   }
 }

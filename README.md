@@ -6,12 +6,12 @@ Le code source de FACTURIA reste dans le depot prive `HOLDINGMGF/Facturia`.
 
 ## Telechargements
 
-Version disponible : **0.13.5**, canaux Production et Beta.
+Version disponible : **0.13.6**, canaux Production et Beta.
 
-La 0.13.5 corrige le retour automatique a la ligne des designations et informations, garde les champs chiffres accessibles et place les fleches de deplacement a gauche, la corbeille a droite. Le zero initial est selectionne pour etre remplace a la saisie. Les PDF ne sont plus limites a six lignes : les textes longs continuent sur plusieurs pages, y compris les mots sans espaces. Aucun changement de schema depuis 0.13.4. L'assistant de reparation et les protections SQLite sont conserves.
+La 0.13.6 conserve designation, quantite, unite, prix, TVA et remise sur une seule rangee. Seul le texte de la designation revient a la ligne dans sa cellule, sans elargir le tableau. Enregistrer garde le document ouvert ; le nouveau bouton Enregistrer et fermer sauvegarde puis ferme. Les enregistrements successifs conservent le numero et le verrou d'edition, sans doublon. Les corrections PDF 0.13.5, l'assistant de reparation et les protections SQLite restent presents. Aucun changement de schema depuis 0.13.4.
 
 - [Installateur Windows autonome EXE](https://github.com/HOLDINGMGF/FacturiaUpdates/releases/latest/download/Setup-Facturia.exe) : fermer Factur.ia avant installation.
-- [Release 0.13.5 et packages Windows/macOS](https://github.com/HOLDINGMGF/FacturiaUpdates/releases/tag/v0.13.5).
+- [Release 0.13.6 et packages Windows/macOS](https://github.com/HOLDINGMGF/FacturiaUpdates/releases/tag/v0.13.6).
 - Sur macOS Apple Silicon, utiliser la mise a jour integree. Le ZIP macos-arm64 est un patch destine a l'assistant de mise a jour, pas un DMG d'installation. Le package a ete compile depuis Windows ; l'execution sur un Mac reel reste a valider.
 
 Sauvegarder la base et fermer les autres postes avant la premiere migration. La base migree exige la version 0.13.4 minimum : mettre tous les postes partageant la base a jour en 0.13.4 avant reutilisation. La version lourde reste en SQLite/SQLCipher ; les API et PostgreSQL concernent les editions demi-SaaS/SaaS.
