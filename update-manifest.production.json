@@ -1,19 +1,19 @@
 {
-  "version": "0.13.4",
+  "version": "0.13.5",
   "minimumVersion": "0.9.0",
   "type": "patch",
   "url": "",
   "sha256": "",
-  "notes": "Facturia 0.13.4 : controles de types SQLite renforces, decimaux exacts sans arrondi, sauvegarde chiffree avant migration et outil de reparation des rattachements avec validation. La base migree exige Facturia 0.13.4 minimum. Sauvegardez la base, fermez les autres postes et mettez tous les postes a jour avant reutilisation.",
-  "installerUrl": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.4/Setup-Facturia.exe",
+  "notes": "Facturia 0.13.5 : designations et informations avec retour automatique a la ligne, champs chiffres accessibles sous la designation, fleches a gauche et corbeille a droite. Le zero initial est remplace a la saisie. PDF sans limite de six lignes, avec continuation sur plusieurs pages et mots longs correctement coupes. Aucun nouveau changement de schema. Fermez Facturia avant installation.",
+  "installerUrl": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.5/Setup-Facturia.exe",
   "packages": {
     "windows-x64": {
-      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.4/facturia-patch-windows-x64-0.13.4.zip",
-      "sha256": "1e92cfa9673a332005ec49b6685207c5f2a6ad8ae42c10056a803e3d1710e0bf"
+      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.5/facturia-patch-windows-x64-0.13.5.zip",
+      "sha256": "9bfdac3e2190213bada1e1c97ff8ae44fe94226987d2e81002fb667bec47774f"
     },
     "macos-arm64": {
-      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.4/facturia-patch-macos-arm64-0.13.4.zip",
-      "sha256": "438f49c6d0af8954fe03d3ab5797f08cdad657428cfb2bc11810695b2f251e23"
+      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.5/facturia-patch-macos-arm64-0.13.5.zip",
+      "sha256": "0d7b674f032b0cfcc75c89166f3b21363838f2f8dc6cc169ebabfc08a0126376"
     }
   }
 }
