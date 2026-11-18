@@ -1,19 +1,19 @@
 {
-  "version": "0.13.6",
+  "version": "0.13.7",
   "minimumVersion": "0.9.0",
   "type": "patch",
   "url": "",
   "sha256": "",
-  "notes": "Facturia 0.13.6 : designation, quantite, prix, TVA et remise restent cote a cote sur une seule rangee. Seul le texte revient a la ligne dans sa cellule. Enregistrer garde le document ouvert ; Enregistrer et fermer sauvegarde puis ferme. Les enregistrements successifs conservent le numero et le verrou sans doublon. Corrections PDF conservees, aucun changement de schema. Fermez Facturia avant installation.",
-  "installerUrl": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.6/Setup-Facturia.exe",
+  "notes": "Facturia 0.13.7 : reprise limitee des lectures temporairement indisponibles, conservation de la saisie dans la fenetre en cas d'echec, nouvelle tentative sans doublon ni renumerotation. Distinction sauvegarde et actualisation, diagnostic local detaille. Nouveau logo MGF dans A propos. Aucun changement de schema. Fermez Facturia avant installation.",
+  "installerUrl": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.7/Setup-Facturia.exe",
   "packages": {
     "windows-x64": {
-      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.6/facturia-patch-windows-x64-0.13.6.zip",
-      "sha256": "d477d741a0410a1c0900207378cf127a5ef7586626d6b2cf4fac3f8ff4620e25"
+      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.7/facturia-patch-windows-x64-0.13.7.zip",
+      "sha256": "c3290772bd919291dd39599162ba5e648c6467d5d9f5ea0df9cf9ac8bd0160b2"
     },
     "macos-arm64": {
-      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.6/facturia-patch-macos-arm64-0.13.6.zip",
-      "sha256": "0538bbc672a4a7c26ebadfbd331e8ad0a2f3b5708a6733041708da391b2a12a9"
+      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.7/facturia-patch-macos-arm64-0.13.7.zip",
+      "sha256": "9ce0de0b8e297b1fea3afb40124fe34899e780cdc5bc2996ad776ea857998f45"
     }
   }
 }
