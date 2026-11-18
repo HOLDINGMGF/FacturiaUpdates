@@ -1,19 +1,19 @@
 {
-  "version": "0.13.7",
+  "version": "0.13.8",
   "minimumVersion": "0.9.0",
   "type": "patch",
   "url": "",
   "sha256": "",
-  "notes": "Facturia 0.13.7 : reprise limitee des lectures temporairement indisponibles, conservation de la saisie dans la fenetre en cas d'echec, nouvelle tentative sans doublon ni renumerotation. Distinction sauvegarde et actualisation, diagnostic local detaille. Nouveau logo MGF dans A propos. Aucun changement de schema. Fermez Facturia avant installation.",
-  "installerUrl": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.7/Setup-Facturia.exe",
+  "notes": "Facturia 0.13.8 : deplacement des lignes par poignee et glisser-deposer, apercu anime, defilement automatique et annulation par Echap. Saisie conservee, corbeille a droite. Devis, factures, acomptes et avoirs. Aucun changement de schema. Fermez Facturia avant installation.",
+  "installerUrl": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.8/Setup-Facturia.exe",
   "packages": {
     "windows-x64": {
-      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.7/facturia-patch-windows-x64-0.13.7.zip",
-      "sha256": "c3290772bd919291dd39599162ba5e648c6467d5d9f5ea0df9cf9ac8bd0160b2"
+      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.8/facturia-patch-windows-x64-0.13.8.zip",
+      "sha256": "116f5274be6438da898ac8a2c625bea1f44cb7ed38a93665855a30b9509d22b6"
     },
     "macos-arm64": {
-      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.7/facturia-patch-macos-arm64-0.13.7.zip",
-      "sha256": "9ce0de0b8e297b1fea3afb40124fe34899e780cdc5bc2996ad776ea857998f45"
+      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.8/facturia-patch-macos-arm64-0.13.8.zip",
+      "sha256": "70c8b948d783c90240865bc6b00e48c38ef0291b6a60fe586173c5d38d584ccb"
     }
   }
 }
