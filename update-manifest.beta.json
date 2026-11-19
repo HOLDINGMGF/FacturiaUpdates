@@ -1,19 +1,19 @@
 {
-  "version": "0.13.8",
+  "version": "0.13.9",
   "minimumVersion": "0.9.0",
   "type": "patch",
   "url": "",
   "sha256": "",
-  "notes": "Facturia 0.13.8 : deplacement des lignes par poignee et glisser-deposer, apercu anime, defilement automatique et annulation par Echap. Saisie conservee, corbeille a droite. Devis, factures, acomptes et avoirs. Aucun changement de schema. Fermez Facturia avant installation.",
-  "installerUrl": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.8/Setup-Facturia.exe",
+  "notes": "Facturia 0.13.9 : formulaires plus compacts, validite du devis a cote du type, conditions entre date et statut. Poignee plus etroite, TVA entiere et date sans chevauchement. Aucun changement de schema. Fermez Facturia avant installation.",
+  "installerUrl": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.9/Setup-Facturia.exe",
   "packages": {
     "windows-x64": {
-      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.8/facturia-patch-windows-x64-0.13.8.zip",
-      "sha256": "116f5274be6438da898ac8a2c625bea1f44cb7ed38a93665855a30b9509d22b6"
+      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.9/facturia-patch-windows-x64-0.13.9.zip",
+      "sha256": "403a87da17b06505f775797ba6bd08aa9aaf0a76572be9566b59be6c40415ba9"
     },
     "macos-arm64": {
-      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.8/facturia-patch-macos-arm64-0.13.8.zip",
-      "sha256": "70c8b948d783c90240865bc6b00e48c38ef0291b6a60fe586173c5d38d584ccb"
+      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.9/facturia-patch-macos-arm64-0.13.9.zip",
+      "sha256": "017546db472c0b5d8fa420085eb6f751deb2b134f369ca8aafdb0efbea97896f"
     }
   }
 }
