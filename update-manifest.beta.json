@@ -1,19 +1,19 @@
 {
-  "version": "0.13.10",
+  "version": "0.14.0",
   "minimumVersion": "0.9.0",
   "type": "patch",
   "url": "",
   "sha256": "",
-  "notes": "Facturia 0.13.10 : editeur compacte, telephone client, photos par ligne dans l'apercu et le PDF, nom du devis et bouton Modifier. Apres enregistrement d'une photo, tous les postes doivent etre en 0.13.10 ou suivante. Fermez Facturia sur tous les postes avant installation.",
-  "installerUrl": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.10/Setup-Facturia.exe",
+  "notes": "Facturia 0.14.0 : journal des modifications utilisateurs sans copie des documents, suivi de creation et derniere modification, champs de paiement reorganises. Correction du ZIP verrouille et progression du telechargement. Premiere sauvegarde : version 0.14.0 minimum obligatoire sur tous les postes. Fermez Facturia sur tous les postes avant installation.",
+  "installerUrl": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.14.0/Setup-Facturia.exe",
   "packages": {
     "windows-x64": {
-      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.10/facturia-patch-windows-x64-0.13.10.zip",
-      "sha256": "f4f222294812fc97fea0a150dbb58d1be5cc22e0a4f24f256ba4a96111dab72b"
+      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.14.0/facturia-patch-windows-x64-0.14.0.zip",
+      "sha256": "c940b54c1549addb2e432d96bb325ba6d9ebdd8e8ec4351848d8f06fbf48de0b"
     },
     "macos-arm64": {
-      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.13.10/facturia-patch-macos-arm64-0.13.10.zip",
-      "sha256": "97d1af37f03c48b1f0e640517e21842e7f7b803fbaa613a657a556d77cc2a5cb"
+      "url": "https://github.com/HOLDINGMGF/FacturiaUpdates/releases/download/v0.14.0/facturia-patch-macos-arm64-0.14.0.zip",
+      "sha256": "a2210987177e8bf1849a652d79437527097d6fcbc5a8fcd32ee95eeb29ebb2af"
     }
   }
 }
